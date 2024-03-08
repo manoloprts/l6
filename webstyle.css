@@ -1,0 +1,68 @@
+#cabecera{
+font-size: 30px;
+text-align:center;
+text-decoration: none;
+font-style: bold;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+background-color:#fd7b7b;
+width: 100%;
+height: 150px;
+padding-bottom:5px;
+padding-top:5px;
+}
+#navegacion{
+margin-top:30px;
+height: 20px;
+width: 100%;
+text-align:center;
+
+}
+#pagina{
+background-color:#fd7b7b;
+padding:20px;
+border-radius:20px;
+margin-top:30px;
+margin-bottom:30px;
+height:580px
+}
+#pagina2{
+background-color:#fd7b7b;
+padding:20px;
+border-radius:20px;
+margin-top:30px;
+margin-bottom:30px;
+height:500px
+}
+.partit{
+padding:20px;
+margin
+}
+divs{
+margin-top:30px;
+margin-bottom:30px;
+}
+.menunavegacion{
+font-size:20px;
+text-decoration:none
+}
+.menunavegacion:hover{
+color:red;
+}
+li{
+
+}
+h2{
+text-decoration: none;
+margin-bottom:20px;
+font-size:35px;
+}
+#imag{text-align:center;}
+#pie{
+margin-left:0px;
+background-color:#fd7b7b;
+border-radius:20px;
+
+padding:2px
+}
+a{text-decoration:none}
